@@ -1,0 +1,9 @@
+C:\Users\Blake Kendall\source\repos\SuperMarket\Contracts\bin\Debug\Contracts.dll
+C:\Users\Blake Kendall\source\repos\SuperMarket\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Blake Kendall\source\repos\SuperMarket\Contracts\bin\Debug\Models.dll
+C:\Users\Blake Kendall\source\repos\SuperMarket\Contracts\bin\Debug\Models.pdb
+C:\Users\Blake Kendall\source\repos\SuperMarket\Contracts\obj\Debug\Contracts.csprojAssemblyReference.cache
+C:\Users\Blake Kendall\source\repos\SuperMarket\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Blake Kendall\source\repos\SuperMarket\Contracts\obj\Debug\Contracts.csproj.CopyComplete
+C:\Users\Blake Kendall\source\repos\SuperMarket\Contracts\obj\Debug\Contracts.dll
+C:\Users\Blake Kendall\source\repos\SuperMarket\Contracts\obj\Debug\Contracts.pdb
