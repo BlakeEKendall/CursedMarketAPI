@@ -1,6 +1,6 @@
 ﻿using Data.Entities;
+using Data.Models;
 using Models.Products;
-using SuperMarketAPI.Models;
 using System.Collections.Generic;
 using System.Linq;
 

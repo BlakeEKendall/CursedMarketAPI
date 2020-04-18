@@ -21,3 +21,26 @@ C:\Users\Blake Kendall\source\repos\SuperMarket\Services\bin\Debug\Microsoft.Asp
 C:\Users\Blake Kendall\source\repos\SuperMarket\Services\obj\Debug\Services.csproj.CopyComplete
 C:\Users\Blake Kendall\source\repos\SuperMarket\Services\obj\Debug\Services.dll
 C:\Users\Blake Kendall\source\repos\SuperMarket\Services\obj\Debug\Services.pdb
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Services.dll.config
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Services.dll
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Services.pdb
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Contracts.dll
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Data.dll
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Models.dll
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Contracts.pdb
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Data.pdb
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Data.dll.config
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Models.pdb
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\obj\Debug\Services.dll
+C:\Users\Nick\Source\Repos\CursedMarketAPI\Services\obj\Debug\Services.pdb

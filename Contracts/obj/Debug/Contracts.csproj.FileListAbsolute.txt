@@ -7,3 +7,12 @@ C:\Users\Blake Kendall\source\repos\SuperMarket\Contracts\obj\Debug\Contracts.cs
 C:\Users\Blake Kendall\source\repos\SuperMarket\Contracts\obj\Debug\Contracts.csproj.CopyComplete
 C:\Users\Blake Kendall\source\repos\SuperMarket\Contracts\obj\Debug\Contracts.dll
 C:\Users\Blake Kendall\source\repos\SuperMarket\Contracts\obj\Debug\Contracts.pdb
+C:\Users\Nick\source\repos\CursedMarketAPI\Contracts\bin\Debug\Contracts.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Nick\source\repos\CursedMarketAPI\Contracts\bin\Debug\Models.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Contracts\bin\Debug\Models.pdb
+C:\Users\Nick\source\repos\CursedMarketAPI\Contracts\obj\Debug\Contracts.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\CursedMarketAPI\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\CursedMarketAPI\Contracts\obj\Debug\Contracts.csproj.CopyComplete
+C:\Users\Nick\source\repos\CursedMarketAPI\Contracts\obj\Debug\Contracts.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Contracts\obj\Debug\Contracts.pdb

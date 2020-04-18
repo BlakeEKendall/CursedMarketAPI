@@ -10,6 +10,7 @@ using Microsoft.Owin.Security.OAuth;
 using Owin;
 using SuperMarketAPI.Providers;
 using SuperMarketAPI.Models;
+using Data.Models;
 
 namespace SuperMarketAPI
 {

@@ -4,3 +4,8 @@ C:\Users\Blake Kendall\source\repos\SuperMarket\Models\obj\Debug\Models.csprojAs
 C:\Users\Blake Kendall\source\repos\SuperMarket\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 C:\Users\Blake Kendall\source\repos\SuperMarket\Models\obj\Debug\Models.dll
 C:\Users\Blake Kendall\source\repos\SuperMarket\Models\obj\Debug\Models.pdb
+C:\Users\Nick\source\repos\CursedMarketAPI\Models\bin\Debug\Models.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Models\bin\Debug\Models.pdb
+C:\Users\Nick\source\repos\CursedMarketAPI\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\CursedMarketAPI\Models\obj\Debug\Models.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Models\obj\Debug\Models.pdb

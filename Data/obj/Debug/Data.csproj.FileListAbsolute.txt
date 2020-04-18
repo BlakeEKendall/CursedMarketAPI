@@ -73,3 +73,40 @@ C:\Users\Blake Kendall\source\repos\SuperMarket\Data\bin\Debug\System.Memory.xml
 C:\Users\Blake Kendall\source\repos\SuperMarket\Data\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\Blake Kendall\source\repos\SuperMarket\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Blake Kendall\source\repos\SuperMarket\Data\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\Data.dll.config
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\Data.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\Data.pdb
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\Contracts.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\EntityFramework.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\Models.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Buffers.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Memory.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Security.Permissions.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\Contracts.pdb
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\Models.pdb
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\EntityFramework.xml
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Buffers.xml
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Memory.xml
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\obj\Debug\Data.dll
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\obj\Debug\Data.pdb
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\obj\Debug\Data.Migrations.initCreate.resources
+C:\Users\Nick\source\repos\CursedMarketAPI\Data\obj\Debug\Data.csproj.GenerateResource.cache
