@@ -96,9 +96,9 @@
     <Compile Include="Entities\Order.cs" />
     <Compile Include="Entities\Product.cs" />
     <Compile Include="IdentityModels.cs" />
-    <Compile Include="Migrations\202004181943425_initCreate.cs" />
-    <Compile Include="Migrations\202004181943425_initCreate.Designer.cs">
-      <DependentUpon>202004181943425_initCreate.cs</DependentUpon>
+    <Compile Include="Migrations\202004202128086_initCreate.cs" />
+    <Compile Include="Migrations\202004202128086_initCreate.Designer.cs">
+      <DependentUpon>202004202128086_initCreate.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -118,8 +118,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202004181943425_initCreate.resx">
-      <DependentUpon>202004181943425_initCreate.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202004202128086_initCreate.resx">
+      <DependentUpon>202004202128086_initCreate.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
