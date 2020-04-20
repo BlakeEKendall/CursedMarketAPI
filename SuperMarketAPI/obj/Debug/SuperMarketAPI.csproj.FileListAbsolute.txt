@@ -268,3 +268,5 @@ C:\Users\Nick\Source\Repos\CursedMarketAPI\SuperMarketAPI\obj\Debug\SuperMarketA
 C:\Users\Nick\Source\Repos\CursedMarketAPI\SuperMarketAPI\obj\Debug\SuperMarketAPI.csproj.CopyComplete
 C:\Users\Nick\Source\Repos\CursedMarketAPI\SuperMarketAPI\obj\Debug\SuperMarketAPI.dll
 C:\Users\Nick\Source\Repos\CursedMarketAPI\SuperMarketAPI\obj\Debug\SuperMarketAPI.pdb
+C:\Users\Blake Kendall\source\repos\SuperMarket\SuperMarketAPI\bin\Swashbuckle.Core.dll
+C:\Users\Blake Kendall\source\repos\SuperMarket\SuperMarketAPI\bin\WebActivatorEx.dll
