@@ -8,6 +8,7 @@ namespace Models.Products
 {
     public class ProductListItem
     {
+        public int ProductID { get; set; }
         public string Name { get; set; }
         public decimal Price { get; set; }
         //public int NumberOrdered { get; set; }
